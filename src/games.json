@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "iframeUrl": "https://play2048.co/",
+    "category": "Puzzle"
+  },
+  {
+    "id": "2",
+    "title": "Tetris",
+    "description": "Classic block-stacking puzzle game.",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "iframeUrl": "https://tetris.com/play-tetris",
+    "category": "Puzzle"
+  },
+  {
+    "id": "3",
+    "title": "Snake",
+    "description": "Classic snake game. Eat the apples and grow!",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Classic"
+  },
+  {
+    "id": "4",
+    "title": "Doodle Jump",
+    "description": "Jump as high as you can!",
+    "thumbnail": "https://picsum.photos/seed/doodle/400/300",
+    "iframeUrl": "https://doodlejump.io/",
+    "category": "Arcade"
+  },
+  {
+    "id": "5",
+    "title": "Slope",
+    "description": "Fast-paced ball rolling game.",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "iframeUrl": "https://slope-game.github.io/",
+    "category": "Action"
+  },
+  {
+    "id": "6",
+    "title": "Pac-Man",
+    "description": "The classic arcade game.",
+    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
+    "iframeUrl": "https://macek.github.io/google_pacman/",
+    "category": "Classic"
+  }
+]

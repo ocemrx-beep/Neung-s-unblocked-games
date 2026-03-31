@@ -34,15 +34,15 @@
   {
     "id": "5",
     "title": "Slope",
-    "description": "Fast-paced ball rolling game.",
+    "description": "Fast-paced ball rolling game. Navigate the 3D course!",
     "thumbnail": "https://picsum.photos/seed/slope/400/300",
-    "iframeUrl": "https://slope-game.github.io/",
+    "iframeUrl": "https://wayou.github.io/react-tetris/",
     "category": "Action"
   },
   {
     "id": "6",
     "title": "Pac-Man",
-    "description": "The classic arcade game.",
+    "description": "The classic arcade game. Avoid the ghosts!",
     "thumbnail": "https://picsum.photos/seed/pacman/400/300",
     "iframeUrl": "https://macek.github.io/google_pacman/",
     "category": "Classic"
